@@ -11,3 +11,6 @@ Evaluation Metrics: Using appropriate metrics to evaluate model performance.
 
 Dataset Description
 The dataset represents Customer lifetime value of an Auto Insurance Company in the United States, it includes over 24 features and 9134 records to analyze the lifetime value of Customer.
+
+## Conclusion
+From the above models, Random Forest has given good score i.e. around 1.00, so the best module for predicting CLV is Random Forest.
