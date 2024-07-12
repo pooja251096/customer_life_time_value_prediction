@@ -13,6 +13,4 @@ Model Selection: Experimenting with various models to find the best-performing o
 Evaluation Metrics: Using appropriate metrics to evaluate model performance.
 
 ## Conclusion
-* Overall we can see that No of policies, Monthly Premium auto, Total Claim amount, Months Since Policy Inception, Income , Months Since Last Claim, Number of Open Complaints, Coverage_Extended,vEmploymentStatus_Employed and Renew Offer Type_Offer2 are the important features in predicting the Customer Lifetime Value.
-* The customers having more number of policies with high monthly premium will add more value to company.
-* From the all models, Random Forest has given good score i.e. around 1.00, so the best model for predicting CLV is Random Forest.
+* Given the results, the Random Forest Regressor is the most appropriate model for predicting CLV in this dataset. It provides the best balance between accuracy and error, capturing the underlying patterns in the data more effectively than other models.
